@@ -5,8 +5,8 @@ class Config(object):
 
     MONGODB_SETTINGS = { 
         'db' : 'todo_app',
-        'username':'josephaws',
-        'password':'josephaws1234',
+        'username':'chenjian',
+        'password':'chenjian',
         'host': 'ds047792.mlab.com',
         'port': 47792
     }
